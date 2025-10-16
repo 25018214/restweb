@@ -219,7 +219,9 @@ urlpatterns = [
 
 
 ## OUTPUT
-![alt text](home.png)
-![alt text](contact.png)
+<img width="1920" height="1080" alt="Screenshot 2025-10-16 114350" src="https://github.com/user-attachments/assets/53e8fe6d-dd61-4b81-b043-c3848a024d5b" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-16 114402" src="https://github.com/user-attachments/assets/a69905d4-5992-4354-95a6-84737f9df1d4" />
+
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.

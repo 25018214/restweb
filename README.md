@@ -219,8 +219,9 @@ urlpatterns = [
 
 
 ## OUTPUT
-![alt text](<Screenshot 2025-10-16 114350.png>)
-![alt text](<Screenshot 2025-10-16 114402.png>)
+![Uploading Screenshot 2025-10-16 114350.png…]()
+![Uploading Screenshot 2025-10-16 114402.png…]()
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.

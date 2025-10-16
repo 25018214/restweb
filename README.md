@@ -221,6 +221,5 @@ urlpatterns = [
 ## OUTPUT
 ![alt text](home.png)
 ![alt text](contact.png)
-
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
